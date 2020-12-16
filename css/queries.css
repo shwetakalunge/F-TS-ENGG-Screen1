@@ -1,0 +1,38 @@
+/*SMALL PHONES TO SMALL TABLETS (IPAD-PHONES)-481 TO 767PX PIXELS*/
+@media only screen and (max-width:767px) {}
+
+/*SMALL-PHONES FROM LESS or EQUAL TO 480 PIXEL*/
+@media only screen and (max-width:480px) {
+    .Section_Login1{
+      
+    }
+    h1 {
+        font-weight: 600;
+        font-size: 25px;
+        line-height: 20px;
+        padding: 25px;
+    }
+
+    h2 {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .logo_class {
+        width: 100px;
+        height: 100px;
+        padding: 10px;
+
+    }
+
+    .right_block {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .login-box {
+        width: 80%;
+        margin-left: 00px;
+        margin: auto
+    }
+}
